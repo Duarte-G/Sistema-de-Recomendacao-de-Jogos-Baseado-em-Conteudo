@@ -1,4 +1,4 @@
-# Sistema-de-Recomendacao-de-Jogos-Baseado-em-Conteudo
+# Sistema de-Recomendação de Jogos Baseado em Conteúdo
 Este repositório demonstra um sistema de recomendação de jogos desenvolvido utilizando técnicas de filtragem baseada em conteúdo. O código sugere jogos semelhantes com base nas características dos jogos, como nome, desenvolvedor, gênero e outras informações relevantes extraídas de um conjunto de dados obtido do Kaggle.
 
 O script inclui as seguintes etapas:
